@@ -2,7 +2,7 @@
 
 `my internal attachment projects `
 
-on this repo, i share projects i did over `my internal attachment time`.
+On this repo, i share projects i did over `my internal attachment time`.
 
 * Blinking an led
 * Creating a traffic lights project
